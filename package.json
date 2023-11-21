@@ -10,7 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "moment": "2.29.1",
-    "binarium-crm":"0.0.1-security"
+    "binarium-crm":"0.0.1-security",
+    "career-service-client":"0.0.1-security",
+    "saaaaaaaaaaaaaaaaaaaaaaa":"0.0.1-security"
   },
   "repository": {
     "type": "git",
