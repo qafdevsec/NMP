@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "log4j": "1.0.0"
+    "log4js": "1.0.0"
   }
 }
