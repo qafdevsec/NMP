@@ -14,7 +14,8 @@
     "career-service-client":"0.0.1-security",
     "saaaaaaaaaaaaaaaaaaaaaaa":"0.0.1-security",
     "discord.js-discord-selfbot-v4":"0.0.1-security",
-    "orbitplate":"0.0.1-security"
+    "orbitplate":"0.0.1-security",
+    "malicious-npm-package":"0.0.1-security"
   },
   "repository": {
     "type": "git",
