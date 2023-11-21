@@ -1,0 +1,13 @@
+
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "A simple example project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "example-package": "1.0.0"
+  }
+}
