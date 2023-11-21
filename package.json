@@ -14,8 +14,7 @@
     "career-service-client":"0.0.1-security",
     "saaaaaaaaaaaaaaaaaaaaaaa":"0.0.1-security",
     "discord.js-discord-selfbot-v4":"0.0.1-security",
-    "hh-dep-monitoring":"0.1.5",
-    "hh-dep-monitoring":"0.1.14"
+    "hh-dep-monitoring":"0.1.5"
   },
   "repository": {
     "type": "git",
