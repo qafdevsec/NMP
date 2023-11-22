@@ -9,9 +9,7 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "moment": "2.29.1",
-    "career-service-client": "0.1.6",
-    "orbitplate": "1.0.4"
+    "moment": "2.29.1"
   },
   "repository": {
     "type": "git",
