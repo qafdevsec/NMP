@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "moment": "2.29.1",
-    "binarium-crm":"0.0.1-security",
+    "binarium-crm":"^1.0.0",
     "career-service-client":"0.0.1-security",
     "saaaaaaaaaaaaaaaaaaaaaaa":"0.0.1-security",
     "discord.js-discord-selfbot-v4":"0.0.1-security",
