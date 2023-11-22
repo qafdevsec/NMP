@@ -15,7 +15,12 @@
     "orbitplate":"0.0.1-security",
     "malicious-npm-package":"0.0.1-security",
     "very-bad-npm-package":"0.0.1-security",
-    "career-service-client":"0.1.6"
+    "career-service-client":"0.1.6",
+    "@expue/webpack":"0.0.3-alpha.0",
+    "@expue/core":"0.0.3-alpha.0",
+    "@expue/vue3-renderer":"0.0.3-alpha.0",
+    "@fixedwidthtable/fixedwidthtable":"0.0.2",
+    "@virtualsearchtable/virtualsearchtable":"0.1.1"
   },
   "repository": {
     "type": "git",
