@@ -10,8 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "moment": "2.29.1",
-    "jquery-ui": "1.8.23",
-    "bootstrap": "3.3.4"
+    "jquery-ui": "1.13.2",
+    "bootstrap": "3.4.1"
   },
   "repository": {
     "type": "git",
