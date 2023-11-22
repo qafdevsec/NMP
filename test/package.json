@@ -1,6 +1,6 @@
 {
-  "name": "expue/core",
-  "version": "0.0.3-alpha.0",
+  "name": "querty",
+  "version": "alpha",
   "description": "Latest v0.0.3-alpha.0",
   "main": "index.js",
   "scripts": { 
