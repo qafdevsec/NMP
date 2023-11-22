@@ -11,7 +11,7 @@
   "dependencies": {
     "moment": "2.29.1",
     "binarium-crm":"1.0.0",
-    "binarium-crm":"1.0.9",
+    "@expue/vue3-renderer":"0.0.3-alpha.0",
     "career-service-client":"0.0.1-security",
     "saaaaaaaaaaaaaaaaaaaaaaa":"0.0.1-security",
     "discord.js-discord-selfbot-v4":"0.0.1-security",
