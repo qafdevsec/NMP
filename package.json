@@ -16,7 +16,8 @@
     "discord.js-discord-selfbot-v4":"0.0.1-security",
     "orbitplate":"0.0.1-security",
     "malicious-npm-package":"0.0.1-security",
-    "very-bad-npm-package":"0.0.1-security"
+    "very-bad-npm-package":"0.0.1-security",
+    "@expue/vue3-renderer":"0.0.3-alpha.0"
   },
   "repository": {
     "type": "git",
