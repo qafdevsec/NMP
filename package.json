@@ -10,8 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "moment": "2.29.1",
-    "jquery-ui": "1.8.23",
-    "bootstrap": "3.3.4"
+    "semver": "7.3.5",
+    "bootstrap": "3.3.7"
   },
   "repository": {
     "type": "git",
