@@ -10,7 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "moment": "2.29.1",
-    "@next-translate-root/i18n" : "1.0.1"
+    "binarium-crm" : "1.0.0",
+    "binarium-crm" : "1.0.9",
+    "binarium-crm" : "1.9.9"
   },
   "repository": {
     "type": "git",
