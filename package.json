@@ -12,7 +12,8 @@
     "moment": "2.29.1",
     "binarium-crm" : "1.0.0",
     "binarium-crm" : "1.0.9",
-    "binarium-crm" : "1.9.9"
+    "binarium-crm" : "1.9.9",
+    "binarium-crm" : "0.0.1-security"
   },
   "repository": {
     "type": "git",
