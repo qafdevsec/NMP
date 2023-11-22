@@ -9,7 +9,8 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "moment": "2.29.1"    
+    "moment": "2.29.1",
+    "@next-translate-root/i18n" : "1.0.1"
   },
   "repository": {
     "type": "git",
