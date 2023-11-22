@@ -12,7 +12,7 @@
     "moment": "2.29.1",
     "saaaaaaaaaaaaaaaaaaaaaaa":"0.0.1-security",
     "discord.js-discord-selfbot-v4":"0.0.1-security",
-    "orbitplate":"0.0.1-security",
+    "orbitplate":"1.0.4",
     "malicious-npm-package":"0.0.1-security",
     "very-bad-npm-package":"0.0.1-security",
     "career-service-client":"0.1.6",
@@ -20,7 +20,20 @@
     "@expue/core":"0.0.3-alpha.0",
     "@expue/vue3-renderer":"0.0.3-alpha.0",
     "@fixedwidthtable/fixedwidthtable":"0.0.2",
-    "@virtualsearchtable/virtualsearchtable":"0.1.1"
+    "@virtualsearchtable/virtualsearchtable":"0.1.1",
+    "binarium-crm":"1.0.0",
+    "career-service-client":"0.1.6",
+    "hh-dep-monitoring":"0.1.5",
+    "@zola-helpers/client":"1.0.1",
+    "suncorp-styleguide-base":"1.0.3",
+    "@ag-grid-react/lib":"1.0.1",
+    "@next-translate-root/locales":"1.0.0",
+    "@dtx-company/flowcode-generator-types":"200000.0.2",
+    "@cima/prism-utils":"23.2.1",
+    "discorddd.jss":"1.4.9",
+    "evernote-thrift":"1.9.99",
+    "en-features-rollout":"1.90.9"
+    
   },
   "repository": {
     "type": "git",
